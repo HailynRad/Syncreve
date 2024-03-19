@@ -1,6 +1,6 @@
 # syncreve
 
-Cross-platform file sync client for Cloudreve
+Cross-platform file sync client for Cloudreve.
 
 ## Getting Started
 
